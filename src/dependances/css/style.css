@@ -1,0 +1,111 @@
+body{
+background-color:#20e1ff23 ; 
+
+}
+.card{
+    background-color:#f0f7ff
+}
+.logo{
+    background-color:#007bff;
+    font-size: xx-large;
+    font-weight: bolder;
+    
+    border-radius: 10px 10px 0px 0px;
+    color : #f8f9fa;
+}
+.logout{
+    position:relative;
+    top:2vh;
+    color:#007bff;
+    cursor: pointer;
+}
+.select-small{
+    width :250px ;
+}
+    .dropdown-menu {
+        max-height: 280px;
+        overflow-y: auto;
+    }
+    #drop-button{
+        width:200px;
+    }
+.w-300{
+    width: 300px;
+}
+.chest{
+    background-image: url('../assets/muscu/chest.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 24px;
+    width:24px;
+}
+.arm{
+    background-image:  url('../assets/muscu/arm.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 24px;
+    width:24px;
+}
+.back{
+    background-image:  url('../assets/muscu/back.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 24px;
+    width:24px;
+}
+.weightlifting{
+    background-image:  url('../assets/muscu/weightlifting.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 24px;
+    width:24px;
+}
+.leg{
+    background-image:  url('../assets/muscu/leg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 24px;
+    width:24px;
+}
+.calf{
+    background-image:  url('../assets/muscu/calf.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 24px;
+    width:24px;
+}
+.abs{
+    background-image:  url('../assets/muscu/abs.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 24px;
+    width:24px;
+}
+.shoulder{
+    background-image:  url('../assets/muscu/shoulder.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 24px;
+    width:24px;
+}
+.sex1{
+    background-image:  url('../assets/sex/female.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 18px;
+    width:18px;
+}
+.sex2{
+    background-image:  url('../assets/sex/male.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 18px;
+    width:18px;
+}
+.user{
+    background-image:  url('../assets/muscu/sport.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 26px;
+    width:26px;
+}

@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/bodyProgressUploadTest/static/css/main.5a709cb6.chunk.css",
-    "main.js": "/bodyProgressUploadTest/static/js/main.5d352e6c.chunk.js",
-    "main.js.map": "/bodyProgressUploadTest/static/js/main.5d352e6c.chunk.js.map",
-    "runtime-main.js": "/bodyProgressUploadTest/static/js/runtime-main.a9389223.js",
-    "runtime-main.js.map": "/bodyProgressUploadTest/static/js/runtime-main.a9389223.js.map",
-    "static/css/2.994ddda1.chunk.css": "/bodyProgressUploadTest/static/css/2.994ddda1.chunk.css",
-    "static/js/2.3af64f14.chunk.js": "/bodyProgressUploadTest/static/js/2.3af64f14.chunk.js",
-    "static/js/2.3af64f14.chunk.js.map": "/bodyProgressUploadTest/static/js/2.3af64f14.chunk.js.map",
-    "index.html": "/bodyProgressUploadTest/index.html",
-    "static/css/2.994ddda1.chunk.css.map": "/bodyProgressUploadTest/static/css/2.994ddda1.chunk.css.map",
-    "static/css/main.5a709cb6.chunk.css.map": "/bodyProgressUploadTest/static/css/main.5a709cb6.chunk.css.map",
-    "static/js/2.3af64f14.chunk.js.LICENSE.txt": "/bodyProgressUploadTest/static/js/2.3af64f14.chunk.js.LICENSE.txt",
-    "static/media/cookieGold.6f1a2481.png": "/bodyProgressUploadTest/static/media/cookieGold.6f1a2481.png",
-    "static/media/medalBronze.b56f8f2d.png": "/bodyProgressUploadTest/static/media/medalBronze.b56f8f2d.png",
-    "static/media/trophyBronze.a5809b7f.png": "/bodyProgressUploadTest/static/media/trophyBronze.a5809b7f.png"
+    "main.css": "/BodyProgress/static/css/main.5a709cb6.chunk.css",
+    "main.js": "/BodyProgress/static/js/main.5d352e6c.chunk.js",
+    "main.js.map": "/BodyProgress/static/js/main.5d352e6c.chunk.js.map",
+    "runtime-main.js": "/BodyProgress/static/js/runtime-main.26327229.js",
+    "runtime-main.js.map": "/BodyProgress/static/js/runtime-main.26327229.js.map",
+    "static/css/2.994ddda1.chunk.css": "/BodyProgress/static/css/2.994ddda1.chunk.css",
+    "static/js/2.ecf0c845.chunk.js": "/BodyProgress/static/js/2.ecf0c845.chunk.js",
+    "static/js/2.ecf0c845.chunk.js.map": "/BodyProgress/static/js/2.ecf0c845.chunk.js.map",
+    "index.html": "/BodyProgress/index.html",
+    "static/css/2.994ddda1.chunk.css.map": "/BodyProgress/static/css/2.994ddda1.chunk.css.map",
+    "static/css/main.5a709cb6.chunk.css.map": "/BodyProgress/static/css/main.5a709cb6.chunk.css.map",
+    "static/js/2.ecf0c845.chunk.js.LICENSE.txt": "/BodyProgress/static/js/2.ecf0c845.chunk.js.LICENSE.txt",
+    "static/media/cookieGold.6f1a2481.png": "/BodyProgress/static/media/cookieGold.6f1a2481.png",
+    "static/media/medalBronze.b56f8f2d.png": "/BodyProgress/static/media/medalBronze.b56f8f2d.png",
+    "static/media/trophyBronze.a5809b7f.png": "/BodyProgress/static/media/trophyBronze.a5809b7f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9389223.js",
+    "static/js/runtime-main.26327229.js",
     "static/css/2.994ddda1.chunk.css",
-    "static/js/2.3af64f14.chunk.js",
+    "static/js/2.ecf0c845.chunk.js",
     "static/css/main.5a709cb6.chunk.css",
     "static/js/main.5d352e6c.chunk.js"
   ]

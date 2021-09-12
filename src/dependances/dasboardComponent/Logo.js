@@ -4,7 +4,7 @@ export default function Logo() {
 
 
     return (
-        <div  >
+        <div>
                     <div class="text-center logo">Body Progress</div>
         </div>
 

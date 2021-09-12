@@ -82,7 +82,8 @@ export default function User() {
     const updateProfile = () => {
         history.push('/update-profile')
     }
-
+    
+    
     return (
         <div>
             <Logo />
@@ -112,7 +113,7 @@ export default function User() {
                         </select>
                         <div className='d-flex justify-content-around'>
                             <Button disabled={loading} type="button" onClick={handleSubmit}>mettre a jour</Button>
-                            <Button onClick={mainpage} variant="secondary" type="button"> Page d'acceuil </Button>
+                            <Button onClick={mainpage} variant="secondary" type="button"> Page d'accueil </Button>
                         </div>
                         <div className="w-100 text-center logout">
                             

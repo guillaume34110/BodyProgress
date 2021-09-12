@@ -35,7 +35,7 @@ export default function NewExercice() {
             let previousList = snapshot.val()
             if (previousList === null) previousList =[]
             previousList.push(e.nativeEvent.target.id)
-            console.log(previousList)
+            console.log(e.nativeEvent.target.id)
             muscu.set(previousList)
             history.push('/newMuscuTrain')
         })

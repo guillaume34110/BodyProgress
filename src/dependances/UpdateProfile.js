@@ -77,7 +77,7 @@ export default function UpdateProfile() {
                         </Form.Group>
                         <div className=' d-flex justify-content-around w-100'>
                             <Button disabled={loading} type="submit">mettre a jour</Button>
-                            <Button variant="secondary" onClick = {dashboard}type="button">page d'acceuil</Button>
+                            <Button variant="secondary" onClick = {dashboard}type="button">page d'accueil</Button>
                         </div>
                     </Form>
                 </Card.Body>

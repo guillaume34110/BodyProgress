@@ -1,6 +1,5 @@
 body{
 background-color:#20e1ff23 ; 
-
 }
 .card{
     background-color:#f0f7ff
@@ -32,6 +31,7 @@ background-color:#20e1ff23 ;
 .w-300{
     width: 300px;
 }
+
 .chest{
     background-image: url('../assets/muscu/chest.png');
     background-repeat: no-repeat;

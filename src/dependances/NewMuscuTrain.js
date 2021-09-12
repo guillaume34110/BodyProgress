@@ -140,15 +140,15 @@ export default function NewMuscuTrain() {
             <Card>
                 <Card.Body>
                     {error && <Alert variant="danger">{error}</Alert>}
+                    <div className='mb-3 d-flex justify-content-center'>
+                        <Button variant="success" onClick={newExercice} >ajouter nouvel exercice</Button>
+                    </div>
                     <Form>
                         <Form.Group id="name">
                             <Form.Control placeholder="nom de l'entrainement" type="name" ref={trainingNameRef} required />
                         </Form.Group>
                     </Form>
-                    <div className='mb-3 d-flex justify-content-center'>
-                        <Button variant="success" onClick={newExercice} >ajouter nouvel exercice</Button>
-
-                    </div>
+                    
                     {muscuTraining && muscuTraining.map((item, index) => {
                         return (
                             <Card key={index}>

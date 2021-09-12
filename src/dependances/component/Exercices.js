@@ -353,7 +353,7 @@ export default function Exercices({ Exercice }) {
                     <Form.Control placeholder={unit} id="nameForm" type="text" ref={useData} required />
                 </Form.Group>
                 <div className="mb-3 mt-3 d-flex justify-content-around">
-                    <Button onClick={submit} type="button"> nouvelle donée</Button>
+                    <Button onClick={submit} type="button"> nouvelle donnée</Button>
                     <Dropdown id="drop-button d-flex justify-content-center">
                         <Dropdown.Toggle id=" drop-button dropdown-autoclose-true ">
                             {dropdowTitle}
@@ -383,8 +383,8 @@ export default function Exercices({ Exercice }) {
             </div>
             <Progress exercice={Exercice} ratioData={ratioData} userSex={userSex} />
             <div className='mt-4 d-flex   align-items-center justify-content-around' >
-                <Button onClick={mainpage} class="  btn-block" variant="secondary" type="return"> Page d'acceuil </Button>
-                <Button onClick={remove} class="  btn-block" variant="danger" type="return"> suprimer </Button>
+                <Button onClick={mainpage} class="  btn-block" variant="secondary" type="return"> Page d'accueil </Button>
+                <Button onClick={remove} class="  btn-block" variant="danger" type="return"> suppimer </Button>
             </div>
 
         </div>
